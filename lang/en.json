@@ -1,0 +1,25 @@
+{
+  "languageSelector.english": "English",
+  "languageSelector.german": "German",
+  "main.headline": "Survey for the first consultation",
+  "main.intro1": "Dear patient, you would like to present yourself for counseling at an obesity center.",
+  "main.intro2": "In order for the consultation to be as personalized and targeted as possible, it is helpful for us to obtain specific information about your personal details, accompanying conditions, medications, etc.",
+  "btn.start": "Start",
+  "btn.next": "Next",
+  "btn.back": "Back",
+  "language.headline": "Please choose a language",
+  "personalInfo.headline": "Personal information",
+  "input.firstName": "First name",
+  "input.lastName": "Last name",
+  "personalInfo.sex":"Biological sex",
+  "personalInfo.sex1": "Male",
+  "personalInfo.sex2": "Female",
+  "contactInfo.headline": "Contact information",
+  "contactInfo.email": "Email-address",
+  "contactInfo.phone": "Phone number",
+  "print.header": "Your waiting number:",
+  "print.intro1": "Please kindly click on the button below to print your queue number. With this number, you will be able to patiently await your turn.",
+  "print.intro2": "We sincerely appreciate your cooperation and thank you for your participation.",
+  "btn.print": "Print waiting number"
+
+}

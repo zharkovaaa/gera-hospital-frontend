@@ -1,0 +1,37 @@
+select {
+    /* Reset */
+    appearance: none;
+    border: 0;
+    outline: 0;
+    font: inherit;
+    /* Personalize */
+    width: 50em;
+    height: 3em;
+    padding: 0 4em 0 1em;
+    margin: 2vh;
+    max-width: 50rem !important;
+    font-size: 2rem;
+    font-family: "SRH Text App";
+    border-radius: 0.25em;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+}
+/* <option> colors */
+.languageButton{
+    display: inline-block;
+    background: white;
+    width: 15rem;
+    border: 5px solid #069;
+    border-radius: 2rem;
+    padding: 1rem;
+    font-size: 3rem;
+    font-family: "SRH Text App";
+    font-weight: 400;
+}
+
+.box{
+    max-width: 50vw;
+    margin: 3vw 0 3vw 17vw;
+}
+option {
+    max-width: 50rem !important;
+}

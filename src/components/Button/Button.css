@@ -1,0 +1,37 @@
+.nextButton{
+    width: 361px;
+    height: 155px;
+    align-self: flex-end;
+    border-radius: 35px;
+    background: #069;
+    color: #FFF;
+    font-size: 48px;
+    font-family: "SRH Headline App";
+    font-weight: 700;
+}
+
+.startButton{
+    width: 62rem;
+    height: 155px;
+    margin: 1.5rem;
+    align-self: center;
+    border-radius: 35px;
+    background: #069;
+    color: #FFF;
+    font-size: 48px;
+    font-family: "SRH Headline App";
+    font-weight: 700;
+}
+
+.backButton{
+    width: 361px;
+    height: 155px;
+    align-self: flex-start;
+    background: white;
+    color: #069;
+    border: none;
+    font-size: 48px;
+    font-family: "SRH Headline App";
+    font-weight: 700;
+}
+

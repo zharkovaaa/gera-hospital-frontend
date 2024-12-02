@@ -1,0 +1,17 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    color: #034261;
+    font-size: 44px;
+    font-family: "SRH Text App";
+}
+
+.inputText {
+    width: 860px;
+    height: 155px;
+    margin: 3rem;
+    border: 5px solid #006699;
+    border-radius: 50px;
+    font-size: 2.75rem;
+}
